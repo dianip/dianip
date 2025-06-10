@@ -35,24 +35,5 @@
 </p>
 
 ---
-<div style="font-size: 1.15em;">
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
-    <img src="https://img.shields.io/badge/Seaborn-49A1A0?style=flat" />
-    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" />
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=Power%20BI&logoColor=black" />
-    <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=Google&logoColor=white" />
-    <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft%20Excel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white" />
-  </p>
-</div>
 
-
----
-
-🤝🏾 Connect with me on [LinkedIn](https://www.linkedin.com/in/diani-patel/)
+### 🤝🏾 Connect with me on [LinkedIn](https://www.linkedin.com/in/diani-patel/)
