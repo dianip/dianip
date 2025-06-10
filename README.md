@@ -4,7 +4,7 @@
 
 ---
 
-### 👩🏽‍💻 About Me
+## 👩🏽‍💻 About Me
 🔹I am a Business Graduate turned Data Enthusiast with an MSc in Data Science and a BSc in Business with Marketing. My background gives me a unique advantage in understanding both business operations and how data can transform decision-making.
 
 🔹I am passionate about turning raw data into clear, actionable insights. Whether it is cleaning messy data, building dashboards, automating reports, or uncovering trends, I enjoy working with data to drive real-world business decisions.
@@ -17,7 +17,7 @@
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -36,4 +36,4 @@
 
 ---
 
-### 🤝🏾 Connect with me on [LinkedIn](https://www.linkedin.com/in/diani-patel/)
+## 🤝🏾 Connect with me on [LinkedIn](https://www.linkedin.com/in/diani-patel/)
